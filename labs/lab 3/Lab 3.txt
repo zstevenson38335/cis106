@@ -1,0 +1,22 @@
+blockattack
+dragonplayer
+epiphany-browser
+geary
+elisa
+
+
+
+echo- Echo the STRING(s) to standard output.
+
+fortune- When  fortune  is  run  with no arguments it prints out a random  epigram.  Epigrams  are divided  into several categories, where each category is sub-divided into those which are potentially  offensive  and  those which are not.
+
+cowsay- Cowsay generates an ASCII picture of  a  cow saying  something  provided by the user.
+
+lolcat- This manual page documents briefly the  lolcat command.
+       
+figlet- FIGlet  prints its input using large characters.
+
+toilet- TOIlet  prints  text  using large characters made of smaller characters.
+
+rig- Rig  is a utility that will piece together a random first name, last name, street  number and  address,  along  with  a geographically consistant (ie,  they  all  match  the  same area) city, state, ZIP code, and area code.
+
